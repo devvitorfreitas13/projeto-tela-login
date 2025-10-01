@@ -4,10 +4,8 @@ Este é um site simples de **login** desenvolvido utilizando **HTML** e **CSS**,
 
 ---
 
-### 🖼️ Demonstração
-
 > Acesse o projeto online (GitHub Pages, Netlify ou outro serviço):  
-> [🔗 Clique aqui para acessar o site](https://seuusuario.github.io/nome-do-repositorio)  <!-- Substitua com o seu link -->
+> [🔗 Clique aqui para acessar o site](https://devvitorfreitas13.github.io/projeto-tela-login/)
 
 ---
 
